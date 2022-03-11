@@ -83,7 +83,10 @@ author:
   name             : "Abdulrahman Kerim"
   avatar           : "profile.png"
   bio              : "Kerim is a PhD student at Lancaster University"
-  location         : "InfoLab21,| Lancaster University, Lancaster, United Kingdom, LA1 4WA"
+  location         : "InfoLab21,
+                      Lancaster University,
+                      Lancaster, United Kingdom,
+                      LA1 4WA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vC1x5OAAAAAJ&hl=en"
