@@ -1,20 +1,15 @@
 ---
-title: "Recognition of Traffic Signs with Artificial Neural Networks: A Novel Dataset and Algorithm"
+title: "Mobile Games Success and Failure: Mining the Hidden Factors"
 collection: publications
-permalink: /publication/Recognition_of_Traffic_Signs_with_Artificial_Neural_Networks_A_Novel_Dataset_and_Algorithm_ICAIIC_2021
+permalink: /publication/Mobile_Games_Success_and_Failure_Mining_the_Hidden_Factors_ISCMI_2020
 excerpt: ''
-date: 2021-10-01
-venue: 'International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-paperurl: 'https://doi.org/10.1109/ICAIIC51459.2021.9415238'
-citation: 'Abdulrahman Kerim, Mehmet Önder Efe. (2021). &quot;Recognition of Traffic Signs with Artificial Neural Networks: A Novel Dataset and Algorithm.&quot; <i>ICAIIC</i>,IEEE'
+date: 2020-10-01
+venue: 'International Conference on Soft Computing & Machine Intelligence (ISCMI)'
+paperurl: 'https://doi.org/10.1109/ISCMI51676.2020.9311587'
+citation: 'Abdulrahman Kerim, Burkay Genç. (2020). &quot;Mobile Games Success and Failure: Mining the Hidden Factors.&quot; <i>ISCMI</i>,IEEE'
 ---
-Traffic sign classification is a prime issue for autonomous platform industries such as autonomous cars. Towards the goal of recognition, most recent
-classification methods deploy Artificial Neural Networks (ANNs), Support Vector Machines (SVMs) and Convolutional Neural Networks (CNNs). In this work,
-we provide a novel dataset and a hybrid ANN that achieves accurate results that are very close to the state-of-the-art ones. When training and testing
-on German Traffic Sign Recognition Benchmarks (GTSRB) a top-5 classification accuracy of 80% was achieved for 43 classes. On the other hand, a top-2
-classification accuracy of 95% was reached on our novel dataset for 10 classes. This accomplishment can be linked to the fact that the proposed hybrid
-ANN combines 9 different models trained on color intensity, HOG (Histograms of Oriented Gradients) and LBP (Local Binary Pattern) features.
-Recommended citation: Abdulrahman Kerim, Mehmet Önder Efe. (2021). "Recognition of Traffic Signs with Artificial Neural Networks: A Novel Dataset and Algorithm." <i>ICAIIC</i>, IEEE.
+Predicting the success of a mobile game is a prime issue in game industry. Thousands of games are being released each day. However, a few of them succeed while the majority fail. Towards the goal of investigating the potential correlation between the success of a mobile game and its specific attributes, this work was conducted. More than 17 thousands games were considered for that reason. We show that specific game attributes, such as number of IAPs (In-App Purchases), belonging to the puzzle genre, supporting different languages and being produced by a mature developer highly and positively affect the success of the game in the future. Moreover, we show that releasing the game in July and not including any IAPs seems to be highly associated with the game's failure. Our second main contribution, is the proposal of a novel success score metric that reflects multiple objectives, in contrast to evaluating only revenue, average rating or rating count. We also employ different machine learning models, namely, SVM (Support Vector Machine), RF (Random Forest) and Deep Learning (DL) to predict this success score metric of a mobile game given its attributes. The trained models were able to predict this score, as well as the rating average and rating count of a mobile game with more than 70% accuracy. This prediction can help developers before releasing their game to the market to avoid any potential disappointments.
 
 Recommended citation: Abdulrahman Kerim, Burkay Genç. (2020). "Mobile Games Success and Failure: Mining the Hidden Factors." <i>ISCMI</i>, IEEE.
+
 
