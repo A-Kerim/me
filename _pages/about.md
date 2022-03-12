@@ -13,6 +13,6 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
-* Our work "Mobile Games Success and Failure: Mining the Hidden Factors" was accepted by Neural Computing and Applications Journal.
+* [2022] Our work "Mobile Games Success and Failure: Mining the Hidden Factors" was accepted by Neural Computing and Applications Journal.
 
 
