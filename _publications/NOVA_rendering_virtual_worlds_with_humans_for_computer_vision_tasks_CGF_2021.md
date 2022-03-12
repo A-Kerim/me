@@ -1,5 +1,5 @@
 ---
-title: "NOVA: Rendering virtual worlds with humans for computer vision tasks"
+title: "NOVA: Rendering Virtual Worlds with Humans for Computer Vision Tasks"
 collection: publications
 permalink: /publication/NOVA_rendering_virtual_worlds_with_humans_for_computer_vision_tasks_CGF_2021
 excerpt: ''
