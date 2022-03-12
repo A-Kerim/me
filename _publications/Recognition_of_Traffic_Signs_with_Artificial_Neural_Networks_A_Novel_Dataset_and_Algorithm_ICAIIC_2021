@@ -10,7 +10,7 @@ a top-2 classification accuracy of 95% was reached on our novel dataset for 10 c
 hybrid ANN combines 9 different models trained on color intensity, HOG (Histograms of Oriented Gradients) and LBP (Local Binary Pattern) features.'
 date: 2021-10-01
 venue: 'International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
-paperurl: 'https://doi.org/10.1109/ISCMI51676.2020.9311587'
+paperurl: 'https://doi.org/10.1109/ICAIIC51459.2021.9415238'
 citation: 'Abdulrahman Kerim, Mehmet Önder Efe. (2021). &quot;Recognition of Traffic Signs with Artificial Neural Networks: A Novel Dataset and Algorithm.&quot; <i>ICAIIC</i>,IEEE'
 ---
 Traffic sign classification is a prime issue for autonomous platform industries such as autonomous cars. Towards the goal of recognition, most recent
