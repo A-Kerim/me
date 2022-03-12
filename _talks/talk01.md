@@ -1,10 +1,10 @@
 ---
-title: "DREAM BIG: Introduction to Computer Engineering"
+title: "DREAM BIG: Introduction to Computer Engineering (Seminar)"
 collection: talks
 type: "Talk"
 permalink: /talks/talk01
 venue: "Ankara Yildirim Beyazit University, Computer Engineering Departement"
-date: 2012-03-01
+date: 2020-12-03
 location: "Ankara, Turkiye"
 ---
 
