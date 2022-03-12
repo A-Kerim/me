@@ -2,7 +2,7 @@
 title: "Mobile Games Success and Failure: Mining the Hidden Factors"
 collection: publications
 permalink: /publication/Mobile_Games_Success_and_Failure_Mining_the_Hidden_Factors_ISCMI_2020
-excerpt: 'Predicting the success of a mobile game is a prime issue in game industry. Thousands of games are being released each day. However, a few of them succeed while the majority fail. Towards the goal of investigating the potential correlation between the success of a mobile game and its specific attributes, this work was conducted. More than 17 thousands games were considered for that reason.'
+excerpt: ''
 date: 2020-10-01
 venue: 'International Conference on Soft Computing & Machine Intelligence (ISCMI)'
 paperurl: 'https://doi.org/10.1109/ISCMI51676.2020.9311587'
