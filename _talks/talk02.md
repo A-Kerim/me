@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk02
 venue: "Lancaster University, Data Science Group"
-date: 2020-12-03
+date: 2021-01-29
 location: "Lancaster, UK"
 excerpt: 'Technical Talk'
 ---
