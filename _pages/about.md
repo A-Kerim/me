@@ -11,7 +11,7 @@ I am currently a Ph.D. Candidate in Computer Science in the School of Computing 
 
 In my research, I address the limitations of computer vision models under challenging scenarios such as adverse weather conditions and low illumination. I propose using games engines to generate rich and diverse synthetic datasets as a solution. At the same time, I develop novel synthetic-aware computer vision models. I focus specifically on Visual Object Tracking, Semantic Segmentation, and Video Stabilization.
 
-excerpt: "News!"
+title: "News!"
 Our work was accepted "Mobile Games Success and Failure: Mining the Hidden Factors" at Neural Computing and Applications Journal.
 
 
