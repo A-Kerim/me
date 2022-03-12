@@ -6,6 +6,8 @@ excerpt: ''
 date: 2021-10-01
 venue: 'International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'
 ---
+**Abdulrahman Kerim**, Mehmet Önder Efe
+
 Traffic sign classification is a prime issue for autonomous platform industries such as autonomous cars. Towards the goal of recognition, most recent
 classification methods deploy Artificial Neural Networks (ANNs), Support Vector Machines (SVMs) and Convolutional Neural Networks (CNNs). In this work,
 we provide a novel dataset and a hybrid ANN that achieves accurate results that are very close to the state-of-the-art ones. When training and testing
