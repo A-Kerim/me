@@ -15,3 +15,6 @@ on German Traffic Sign Recognition Benchmarks (GTSRB) a top-5 classification acc
 classification accuracy of 95% was reached on our novel dataset for 10 classes. This accomplishment can be linked to the fact that the proposed hybrid
 ANN combines 9 different models trained on color intensity, HOG (Histograms of Oriented Gradients) and LBP (Local Binary Pattern) features.
 Recommended citation: Abdulrahman Kerim, Mehmet Önder Efe. (2021). "Recognition of Traffic Signs with Artificial Neural Networks: A Novel Dataset and Algorithm." <i>ICAIIC</i>, IEEE.
+
+Recommended citation: Abdulrahman Kerim, Burkay Genç. (2020). "Mobile Games Success and Failure: Mining the Hidden Factors." <i>ISCMI</i>, IEEE.
+
