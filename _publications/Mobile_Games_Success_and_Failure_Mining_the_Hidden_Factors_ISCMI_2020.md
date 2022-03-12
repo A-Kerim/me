@@ -2,7 +2,7 @@
 title: "Mobile Games Success and Failure: Mining the Hidden Factors"
 collection: publications
 permalink: /publication/Mobile_Games_Success_and_Failure_Mining_the_Hidden_Factors_ISCMI_2020
-excerpt: ''
+excerpt: 'xx'
 date: 2020-10-01
 venue: 'International Conference on Soft Computing & Machine Intelligence (ISCMI)'
 paperurl: 'https://doi.org/10.1109/ISCMI51676.2020.9311587'
