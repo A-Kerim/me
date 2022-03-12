@@ -3,7 +3,7 @@ title: "Mobile Games Success and Failure: Mining the Hidden Factors"
 collection: publications
 permalink: /publication/Mobile_Games_Success_and_Failure_Mining_the_Hidden_Factors_NCAA_2022
 excerpt: ''
-date: 2021-10-01
+date: 2022-10-01
 venue: 'Neural Computing and Applications Journal (in press)'
 ---
 Predicting the success of a mobile game is a prime issue in game industry. Thousands
