@@ -1,5 +1,5 @@
 ---
-title: "Using synthetic data for person tracking under adverse weather conditions"
+title: "A. Kerim et al., Using synthetic data for person tracking under adverse weather conditions"
 collection: publications
 permalink: /publication/Using_synthetic_data_for_person_tracking_under_adverse_weather_conditions_IVCJ_2021
 excerpt: ''
