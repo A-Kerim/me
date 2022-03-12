@@ -6,6 +6,8 @@ excerpt: ''
 date: 2022-10-01
 venue: 'Neural Computing and Applications Journal (in press)'
 ---
+**Abdulrahman Kerim**, Burkay Genç
+
 Predicting the success of a mobile game is a prime issue in game industry. Thousands
 of games are being released each day. However, a few of them succeed while the
 majority fail. Towards the goal of investigating the potential correlation between the
