@@ -2,7 +2,7 @@
 title: "Introductoin to Computer Engineering (Seminar)"
 collection: talks
 type: "Talk"
-permalink: /talks/talk01
+permalink: /talks/talk03
 venue: "Ankara Yildirim Beyazit University, Computer Engineering Departement"
 date: 2021-12-15
 location: "Ankara, Turkiye"
