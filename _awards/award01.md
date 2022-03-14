@@ -10,3 +10,4 @@ location: "Ankara, Turkiye"
 
 I was awarded the first rank among all engineering departments. At the same time, I was the BSc valedictorian for the graduation ceremony of 2017.
 
+![Drag Racing](award01_1.jpg)
