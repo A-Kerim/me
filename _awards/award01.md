@@ -1,11 +1,12 @@
 ---
 title: "First Rank Award and BSc Valedictorian"
 collection: awards
-type: "Award"
+type: "talks"
 permalink: /awards/award01
 venue: "Ankara Yildirim Beyazit University, Rector Prof. Metin Doğan"
-received: 2017-07-01
+date: 2017-07-01
 location: "Ankara, Turkiye"
+
 ---
 
 I secure the first rank among all engineering departments. At the same time, I was the BSc valedictorian for the graduation ceremony of 2017.
