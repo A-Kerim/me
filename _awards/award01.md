@@ -1,12 +1,12 @@
 ---
-title: "Programming for Data Scientists (SCC461)"
+title: "First Rank Award and BSc Valedictorian"
 collection: awards
-type: "Postgraduate course"
+type: "Award"
 permalink: /awards/award01
-venue: "Lancaster University, School of Computing and Communications"
-date: 2021-10-01
-location: "Lancaster, UK"
+venue: "Ankara Yildirim Beyazit University, Rector Prof. Metin Doğan"
+date: 2017-07-01
+location: "Ankara, Turkiye"
 ---
 
-I helped course lecturer during lecture time to answer students’ questions. At the
-same time, I carried out student support sessions to help students understanding course materials.
+I was awarded the first rank among all engineering departments. At the same time, I was the BSc valedictorian for the graduation ceremony of 2017.
+
