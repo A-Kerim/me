@@ -6,7 +6,6 @@ permalink: /awards/award01
 venue: "Ankara Yildirim Beyazit University, Rector Prof. Metin Doğan"
 excerpt: 2017-07-01
 location: "Ankara, Turkiye"
-
 ---
 
 I secure the first rank among all engineering departments. At the same time, I was the BSc valedictorian for the graduation ceremony of 2017.
