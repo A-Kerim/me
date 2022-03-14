@@ -4,7 +4,7 @@ collection: awards
 type: "Award"
 permalink: /awards/award01
 venue: "Ankara Yildirim Beyazit University, Rector Prof. Metin Doğan"
-excerpt: "2017-07-01"
+date: 2017-07-01
 location: "Ankara, Turkiye"
 ---
 
