@@ -10,4 +10,5 @@ location: "Ankara, Turkiye"
 
 I received a studentship, from TUBITAK, to support my MSc research from 2018 to 2020.
 
-![award02_1](https://github.com/A-Kerim/abdulrahmankerim.github.io/blob/98b5ddb7cf94e5e32fe569424321b2e3c1c7014e/images/award02_1.jpg?raw=true)
+![award02_1](https://github.com/A-Kerim/abdulrahmankerim.github.io/blob/26d3c47d3964300c36c657ab34eca9c4c8dd6025/images/award02_1.jpg?raw=true)
+
