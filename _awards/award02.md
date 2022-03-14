@@ -1,5 +1,5 @@
 ---
-title: "First Rank Award and BSc Valedictorian"
+title: "TUBITAK Scholarship to Support my MSc Research"
 collection: awards
 type: "Award"
 permalink: /awards/award02
