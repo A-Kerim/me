@@ -1,6 +1,6 @@
 ---
 title: "NOVA Rendering Engine"
-excerpt: "NOVA: Rendering Virtual Worlds with Humans 1<br/><img src='/images/500x300.png'>"
+excerpt: "NOVA: Rendering Virtual Worlds with Humans 1<br/><img src='https://github.com/A-Kerim/abdulrahmankerim.github.io/blob/53312356a399328ad4f4514781ff19271e47c6b2/images/portfolio01.jpg'>"
 collection: portfolio
 ---
 
