@@ -1,6 +1,6 @@
 ---
 title: "Awards"
-collection: teaching
+collection: awards
 type: "Postgraduate course"
 permalink: /awards/list
 venue: "Lancaster University, School of Computing and Communications"
