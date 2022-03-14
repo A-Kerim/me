@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Lancaster University, 2023 (expected)
-* M.S. in Computer Engineering, Hacettepe University, 2021
-* B.S. in Computer Engineering, Ankara Yildirim Beyazit University, 2018
-* B.S. in Electronics and Communicatoin Engineering, Ankara Yildirim Beyazit University, 2017
+* PhD in Computer Science, Lancaster University, 2023 (expected)
+* MSc in Computer Engineering, Hacettepe University, 2021
+* BSc in Computer Engineering, Ankara Yildirim Beyazit University, 2018
+* BSc in Electronics and Communicatoin Engineering, Ankara Yildirim Beyazit University, 2017
 
 
 Publications
@@ -35,6 +35,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
