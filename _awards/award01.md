@@ -1,7 +1,7 @@
 ---
 title: "First Rank Award and BSc Valedictorian"
 collection: awards
-type: "awards"
+type: "Award"
 permalink: /awards/award01
 venue: "Ankara Yildirim Beyazit University, Rector Prof. Metin Doğan"
 excerpt: "2017-07-01"
