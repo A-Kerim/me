@@ -14,7 +14,7 @@ Education
 * PhD in Computer Science, Lancaster University, 2023 (expected)
 * MSc in Computer Engineering, Hacettepe University, 2021
 * BSc in Computer Engineering, Ankara Yildirim Beyazit University, 2018
-* BSc in Electronics and Communicatoin Engineering, Ankara Yildirim Beyazit University, 2017
+* BSc in Electronics and Communication Engineering, Ankara Yildirim Beyazit University, 2017
 
 
 Publications
