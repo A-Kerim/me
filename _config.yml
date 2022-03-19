@@ -181,6 +181,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  works:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -221,7 +224,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-    # _awards
+   # _awards
   - scope:
       path: ""
       type: awards
@@ -230,6 +233,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _works
+  - scope:
+      path: ""
+      type: works
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
   # _publications
   - scope:
       path: ""
