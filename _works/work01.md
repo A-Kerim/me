@@ -4,11 +4,11 @@ collection: works
 type: "Work"
 permalink: /works/work01
 venue: "OAE Publishing Inc."
-date: 2017-07-01
+date: 2021-10-01
 location: "Alhambra, California, United States"
 ---
 
-I secured the first rank among all engineering departments. At the same time, I was the BSc valedictorian for the graduation ceremony of 2017.
+English Language Editor for a number of journals like Complex Engineering System, Intelligence and Robotics, and Smart Environment and Green Computing.
 
-![award01_1](https://github.com/A-Kerim/abdulrahmankerim.github.io/blob/98b5ddb7cf94e5e32fe569424321b2e3c1c7014e/images/award01_1.jpg?raw=true)
+![work01](https://github.com/A-Kerim/me/blob/6bc34f556dcde0bc071f48287fe497284a148ec6/images/work01.png?raw=true)
 
