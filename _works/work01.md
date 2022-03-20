@@ -11,7 +11,7 @@ location: "Alhambra, California, United States"
 English Language Editor for the following journals:
 <ul>
     <li><a href="https://comengsys.com">Complex Engineering Systems</a></li>
-    <li><a href="https://www.intellrobot.com">Link 2</a></li>
+    <li><a href="https://www.intellrobot.com">Intelligence and Robotics</a></li>
     <li><a href="https://www.segcjournal.com">Journal of Smart Environments and Green Computing</a></li>
     <li><a href="https://www.jsssjournal.com">Journal of Surveillance, Security and Safety</a></li>
 </ul>
