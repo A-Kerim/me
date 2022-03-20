@@ -5,6 +5,7 @@ type: "Work"
 permalink: /works/work01
 venue: "OAE Publishing Inc."
 date: 2021-10-01
+excerpt: "Polishing the language of academic papers for a number of journals."
 location: "Alhambra, California, United States"
 ---
 
