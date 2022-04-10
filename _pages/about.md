@@ -13,6 +13,7 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
+* [2022] I am going to give a seminar on leveraging synthetic data for computer vision at the [Laboratory of Computer Vision & Robotics - VeRLab](https://www.verlab.dcc.ufmg.br), Brazil.
 * [2022] Our work "Mobile Games Success and Failure: Mining the Hidden Factors" was accepted by Neural Computing and Applications Journal.
 * [2022] I started my role as a reviewer for the American Journal of Artificial Intelligence (AJAI).
 
