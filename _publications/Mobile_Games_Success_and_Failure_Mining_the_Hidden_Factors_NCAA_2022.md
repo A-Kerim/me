@@ -22,5 +22,5 @@ mobile game given its attributes. The trained models were able to predict this s
 well as the expected rating average and rating count for a mobile game with 70%
 accuracy.
 
-paperurl: [inpress](https://doi.org/)
+paperurl: [paper](https://link.springer.com/article/10.1007/s00521-022-07154-z)
 
