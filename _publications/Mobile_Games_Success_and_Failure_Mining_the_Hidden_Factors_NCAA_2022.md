@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Mobile_Games_Success_and_Failure_Mining_the_Hidden_Factors_NCAA_2022
 excerpt: ''
 date: 2022-10-01
-venue: 'Neural Computing and Applications Journal (in press)'
+venue: 'Neural Computing and Applications Journal'
 ---
 **Abdulrahman Kerim**, Burkay Genç
 
