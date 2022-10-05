@@ -13,8 +13,8 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
-* Our work on Semantic Segmentation under Adverse Conditions using Synthetic Data was accepted to BMVC 2022.
-* I have been accepted to attend [**Oxford Machine Learning Summer School**](https://www.oxfordml.school/) for both ML Health and ML Finance tracks, in-person. 
+* [2022] Our work on Semantic Segmentation under Adverse Conditions using Synthetic Data was accepted to BMVC 2022.
+* [2022] I have been accepted to attend [**Oxford Machine Learning Summer School**](https://www.oxfordml.school/) for both ML Health and ML Finance tracks, in-person. 
 * [2022] I am going to give a seminar on leveraging synthetic data for computer vision at the [**Laboratory of Computer Vision & Robotics - VeRLab**](https://www.verlab.dcc.ufmg.br), Brazil.
 * [2022] Our work "Mobile Games Success and Failure: Mining the Hidden Factors" was accepted by **Neural Computing and Applications Journal**.
 * [2022] I started my role as a reviewer for the **American Journal of Artificial Intelligence (AJAI)**.
