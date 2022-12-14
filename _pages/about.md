@@ -13,7 +13,7 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
-* [2022] Teaching Board Game Design!
+* [2022] Teaching FGCT4003 Board Game Design!
 * [2022] Our work on Semantic Segmentation under Adverse Conditions using Synthetic Data was accepted to BMVC 2022.
 * [2022] I have been accepted to attend [**Oxford Machine Learning Summer School**](https://www.oxfordml.school/) for both ML Health and ML Finance tracks, in-person. 
 * [2022] I am going to give a seminar on leveraging synthetic data for computer vision at the [**Laboratory of Computer Vision & Robotics - VeRLab**](https://www.verlab.dcc.ufmg.br), Brazil.
