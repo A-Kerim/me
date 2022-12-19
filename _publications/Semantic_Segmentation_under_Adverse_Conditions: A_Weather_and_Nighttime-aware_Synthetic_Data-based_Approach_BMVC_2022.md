@@ -1,9 +1,9 @@
 ---
-title: "NOVA: Rendering Virtual Worlds with Humans for Computer Vision Tasks"
+title: "Semantic Segmentation under Adverse Conditions: A Weather and Nighttime aware Synthetic Data-based Approach"
 collection: publications
-permalink: /publication/NOVA_rendering_virtual_worlds_with_humans_for_computer_vision_tasks_CGF_2021
+permalink: /publication/Semantic_Segmentation_under_Adverse_Conditions: A_Weather_and_Nighttime-aware_Synthetic_Data-based_Approach_BMVC_2022
 excerpt: ''
-date: 2021-05-08
+date: 2022-11-21
 venue: 'The British Machine Vision Conference (BMVC)'
 ---
 **Abdulrahman Kerim**, Felipe Chamone, Washington Ramos, Leandro Soriano Marcolino, Erickson R Nascimento, Richard Jiang
