@@ -1,7 +1,7 @@
 ---
 title: "Semantic Segmentation under Adverse Conditions: A Weather and Nighttime aware Synthetic Data-based Approach"
 collection: publications
-permalink: /publication/Semantic_Segmentation_under_Adverse_Conditions: A_Weather_and_Nighttime-aware_Synthetic_Data-based_Approach_BMVC_2022
+permalink: /publication/Semantic_Segmentation_under_Adverse_Conditions_A_Weather_and_Nighttime-aware_Synthetic_Data-based_Approach_BMVC_2022
 excerpt: ''
 date: 2022-11-21
 venue: 'The British Machine Vision Conference (BMVC)'
