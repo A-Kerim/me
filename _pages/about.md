@@ -13,6 +13,8 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
+* [2023] Founded [**Kerim's Synthetic Data Lab**](https://kerimslab.durable.co/)!
+* [2023] Writing "Synthetic Data for Machine Learning" Book with [**Packt**](https://www.packtpub.com/)!
 * [2023] Teaching [**FGCT4016 Gameplay Design and Programming**](https://a-kerim.github.io/me/teaching/FGCT4016)!
 * [2023] Teaching [**FGTE5004 Games Systems Design**](https://a-kerim.github.io/me/teaching/FGTE5004)!
 * [2022] Taught [**FGCT4003 Board Game Design**](https://a-kerim.github.io/me/teaching/FGCT4003)!
