@@ -17,6 +17,8 @@ News!
 * [2023] Writing "Synthetic Data for Machine Learning" Book with [**Packt**](https://www.packtpub.com/)!
 * [2023] Teaching [**FGCT4016 Gameplay Design and Programming**](https://a-kerim.github.io/me/teaching/FGCT4016)!
 * [2023] Teaching [**FGTE5004 Games Systems Design**](https://a-kerim.github.io/me/teaching/FGTE5004)!
+
+--- 
 * [2022] Taught [**FGCT4003 Board Game Design**](https://a-kerim.github.io/me/teaching/FGCT4003)!
 * [2022] Our work on Semantic Segmentation under Adverse Conditions using Synthetic Data was accepted to BMVC 2022.
 * [2022] I have been accepted to attend [**Oxford Machine Learning Summer School**](https://www.oxfordml.school/) for both ML Health and ML Finance tracks, in-person. 
