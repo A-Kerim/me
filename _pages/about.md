@@ -13,6 +13,7 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
+* [2023] Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
 * [2023] Founded [**Kerim's Synthetic Data Lab**](https://kerimslab.durable.co/)!
 * [2023] Writing "Synthetic Data for Machine Learning" Book with [**Packt**](https://www.packtpub.com/)!
 * [2023] Teaching [**FGCT4016 Gameplay Design and Programming**](https://a-kerim.github.io/me/teaching/FGCT4016)!
