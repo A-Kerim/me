@@ -13,8 +13,9 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
-* [2023] Conference co-chair of [Creative AI Research Conference 2023](https://www.uca.ac.uk/events/research/creative-ai/).
-* [2023] Awarded the [Associate Fellowship of the Higher Education Academy (AFHEA)](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
+* [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
+* [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
+* [2023] Awarded the [**Associate Fellowship of the Higher Education Academy (AFHEA)**](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
 * [2023] Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
 * [2023] Founded [**Kerim's Synthetic Data Lab**](https://kerimslab.durable.co/)!
 * [2023] Writing "Synthetic Data for Machine Learning" Book with [**Packt**](https://www.packtpub.com/)!
