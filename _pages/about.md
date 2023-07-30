@@ -17,13 +17,14 @@ In my research, I address the limitations of computer vision models under challe
 <div>
  <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"  width="100" align="right">
 
+ <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"   width="100" align="left" >
 
   <div style="text-align: center;">
          <img width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" width="100">
   </div>
 
 
- <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"   align="left" width="100">
+ 
 
  </div>
 
