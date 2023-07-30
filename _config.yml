@@ -335,4 +335,4 @@ compress_html:
   ignore:
     envs: development
 #jekyll-theme-hacker
-theme: minima
+theme: jekyll-theme-hacker
