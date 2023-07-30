@@ -24,9 +24,7 @@ In my research, I address the limitations of computer vision models under challe
 <div id="image6"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="right"/></div>
 
  ---
- <img src= "https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  
- align="middle" width="100">
- <div id="container">
+
 News!
 ======
 
