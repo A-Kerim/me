@@ -18,11 +18,11 @@ News!
 
 *  [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/)
  <img src=
-"https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  align="middle">
+"https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  align="middle" width="100">
 
 *  [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/)
  <img src=
-"https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  align="middle">
+"https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  align="middle" width="100">
 
 align="left|right|middle|top|bottom"  
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
