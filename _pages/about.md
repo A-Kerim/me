@@ -23,23 +23,6 @@ In my research, I address the limitations of computer vision models under challe
 
  </div>
 
- <div class="col-1 row-5 sizex-3 sizey-3">
-          <a href="http://data.vicforeststrp.opendata.arcgis.com/datasets?q=HCV">
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" class="img-responsive" />
-    </a>
-</div>
-
-<div class="col-4 row-5 sizex-3 sizey-3">
-          <a href="http://data.vicforeststrp.opendata.arcgis.com/datasets?q=TSZ">
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" class="img-responsive" />
-    </a>
-</div>
-
-<div class="col-7 row-5 sizex-3 sizey-3">
-          <a href="http://data.vicforeststrp.opendata.arcgis.com/datasets?q=TRP">
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" class="img-responsive" />
-    </a>
-</div>
 
  ---
 
