@@ -15,13 +15,15 @@ In my research, I address the limitations of computer vision models under challe
 
 ---
 
-<div id="image1"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="left"/></div>
-<div id="image2"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="middle"/></div>
-<div id="image3"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="right"/></div>
+    <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
+        alt="GeeksforGeeks logo"
+        align="right">
 
-<div id="image4"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="left"/></div>
-<div id="image5"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="middle"/></div>
-<div id="image6"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="right"/></div>
+    <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
+        alt="GeeksforGeeks logo"
+        align="left">
 
  ---
 
