@@ -13,6 +13,7 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
+* Test!
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
 * [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
 * [2023] Awarded the [**Associate Fellowship of the Higher Education Academy (AFHEA)**](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
