@@ -14,11 +14,14 @@ I am currently a full-time lecturer at UCA and a researcher at the School of Com
 In my research, I address the limitations of computer vision models under challenging scenarios, such as adverse weather conditions and low illumination. I propose using game engines to generate rich and diverse synthetic datasets as a solution. At the same time, I develop novel synthetic-aware computer vision models. I focus specifically on Visual Object Tracking, Semantic Segmentation, and Video Stabilization.
 
 ---
-
+<div>
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"  alt="GeeksforGeeks logo"   align="right">
+
+ <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"   align="middle">
 
  <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"   align="left">
 
+ </div>
  ---
 
 News!
