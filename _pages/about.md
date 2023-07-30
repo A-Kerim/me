@@ -21,7 +21,7 @@ News!
   </div>
 
 *  [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/)
-  <div style="text-align: middle"><img src="https://www.uca.ac.uk/media/uca-2020/site-assets/media/UCA-Stencil-Logo-Black.png"
+  <div style="text-align: middle"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"
   width="100" alt="My Image" id="hp" />
   </div>
 
