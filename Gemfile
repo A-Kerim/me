@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 gem 'jekyll'
 gem "jekyll-sass-converter", "~> 2.0"
-
+getm "jekyll-theme-hacker"
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
