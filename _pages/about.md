@@ -15,15 +15,9 @@ In my research, I address the limitations of computer vision models under challe
 
 ---
 
-    <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
-        alt="GeeksforGeeks logo"
-        align="right">
+ <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"  alt="GeeksforGeeks logo"   align="right">
 
-    <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"
-        alt="GeeksforGeeks logo"
-        align="left">
+ <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png" alt="GeeksforGeeks logo"   align="left">
 
  ---
 
