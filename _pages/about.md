@@ -17,7 +17,8 @@ News!
 ======
 Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
   <a href="http://www.google.com" class="image">
-    <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" alt="Facebook Icon" />
+    <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" alt="Facebook Icon" width="200" 
+     height="300" />
   </a>
 
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
