@@ -17,10 +17,6 @@ News!
   <a href="http://www.google.com" class="image">
     <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" alt="Facebook Icon" />
   </a>
-  <div class="content">
-    <h3>Header</h3>
-    <p>text goes here</p>
-  </div>
 </li>
 
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
