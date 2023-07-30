@@ -13,18 +13,21 @@ I am currently a full-time lecturer at UCA and a researcher at the School of Com
 
 In my research, I address the limitations of computer vision models under challenging scenarios, such as adverse weather conditions and low illumination. I propose using game engines to generate rich and diverse synthetic datasets as a solution. At the same time, I develop novel synthetic-aware computer vision models. I focus specifically on Visual Object Tracking, Semantic Segmentation, and Video Stabilization.
 
+---
+
+<div id="image1"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image2"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image3"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image4"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image5"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image6"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image7"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>
+<div id="image8"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"/></div>  
+</div>
+ ---
+
 News!
 ======
-
-*  [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/)
-
-<img src= "https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  
-align="middle" width="100">
-
-*  [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/)
-
-<img src= "https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  
- align="middle" width="100">
 
 align="left|right|middle|top|bottom"  
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
