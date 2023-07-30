@@ -14,8 +14,9 @@ In my research, I address the limitations of computer vision models under challe
 News!
 ======
 <li>
+Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
   <a href="http://www.google.com" class="image">
-    <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" alt="Facebook Icon" />
+    <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" alt="Facebook Icon" />
   </a>
 </li>
 
