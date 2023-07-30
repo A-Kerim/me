@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-        <div style="background-color: blue; width: 100%; height: 650px;">  
-  
-        <div style="background-color: red; width: 50%; height: 550px; float:left;">  
-This is the first division to have a vertical alignment.  
-        </div>  
-  
-        <div style="background-color: yellow; width:50%; height: 550px; float:left;">  
-  This is the second division to have a vertical alignment.  
-        </div>  
-    </div>  
 
 I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University, United Kingdom.
 
@@ -25,12 +15,10 @@ In my research, I address the limitations of computer vision models under challe
 
 News!
 ======
-<li>
 Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
   <a href="http://www.google.com" class="image">
     <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" alt="Facebook Icon" />
   </a>
-</li>
 
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
 * [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
