@@ -15,15 +15,14 @@ In my research, I address the limitations of computer vision models under challe
 
 ---
 
-<div id="image1"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image2"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image3"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image4"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image5"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image6"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image7"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>
-<div id="image8"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100"/></div>  
-</div>
+<div id="image1"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="left"/></div>
+<div id="image2"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="middle"/></div>
+<div id="image3"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="right"/></div>
+
+<div id="image4"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="left"/></div>
+<div id="image5"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="middle"/></div>
+<div id="image6"><img src="https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg" width="100" align="right"/></div>
+
  ---
  <img src= "https://www.chead.ac.uk/wp-content/uploads/2020/12/UCA.jpg"  
  align="middle" width="100">
