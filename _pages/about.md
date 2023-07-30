@@ -16,8 +16,8 @@ In my research, I address the limitations of computer vision models under challe
 News!
 ======
 * Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
-  <div style="text-align: right;"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" width="100" alt="My Image" /></div>
-
+  <div style="text-align: right;"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" width="100" alt="My Image" id="hp" /></div>
+  
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
 * [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
 * [2023] Awarded the [**Associate Fellowship of the Higher Education Academy (AFHEA)**](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
