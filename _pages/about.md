@@ -15,11 +15,11 @@ In my research, I address the limitations of computer vision models under challe
 
 ---
 <div>
- <img src= "images/logos/UCA.jpg" width="100" height="100" align="right">
+ <img src= "images/logos/Microsoft.svg" width="100" height="100" align="right">
 
  <img src= "https://www.lancaster.ac.uk/media/wdp/style-assets/images/logos/lu-logo.svg"  width="100" height="100" align="left" >
 
-  <div style="text-align: center;">
+  <div style="text-align: center">
          <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Packt_Logo.png" width="100" height="100">
   </div>
 
