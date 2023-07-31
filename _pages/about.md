@@ -52,17 +52,13 @@ News!
 * [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
 * [2023] Awarded the [**Associate Fellowship of the Higher Education Academy (AFHEA)**](https://www.advance-he.ac.uk/fellowship/associate-fellowship).
 * [2023] Participating in the [**Artificial Intelligence and Games Summer School**](https://school.gameaibook.org/) in Cambridge this summer.
-* [2023] Founded [**Kerim's Synthetic Data Lab**](https://kerimslab.durable.co/)!
-* [2023] Writing "Synthetic Data for Machine Learning" Book with [**Packt**](https://www.packtpub.com/)!
-* [2023] Teaching [**FGCT4016 Gameplay Design and Programming**](https://a-kerim.github.io/me/teaching/FGCT4016)!
-* [2023] Teaching [**FGTE5004 Games Systems Design**](https://a-kerim.github.io/me/teaching/FGTE5004)!
+* [2023] Writing [**Synthetic Data for Machine Learning**](https://www.amazon.co.uk/Synthetic-Data-Machine-Learning-revolutionary/dp/1803245409) Book with [**Packt**](https://www.packtpub.com/)!
 
 --- 
-* [2022] Taught [**FGCT4003 Board Game Design**](https://a-kerim.github.io/me/teaching/FGCT4003)!
-* [2022] Our work on Semantic Segmentation under Adverse Conditions using Synthetic Data was accepted to BMVC 2022.
+* [2022] Our work on [**Semantic Segmentation under Adverse Conditions using Synthetic Data**](https://bmvc2022.mpi-inf.mpg.de/0977.pdf) was accepted to BMVC 2022.
 * [2022] I have been accepted to attend [**Oxford Machine Learning Summer School**](https://www.oxfordml.school/) for both ML Health and ML Finance tracks, in-person. 
 * [2022] I am going to give a seminar on leveraging synthetic data for computer vision at the [**Laboratory of Computer Vision & Robotics - VeRLab**](https://www.verlab.dcc.ufmg.br), Brazil.
-* [2022] Our work "Mobile Games Success and Failure: Mining the Hidden Factors" was accepted by **Neural Computing and Applications Journal**.
+* [2022] Our work [**Mobile Games Success and Failure: Mining the Hidden Factors**](https://link.springer.com/article/10.1007/s00521-022-07154-z) was accepted by **Neural Computing and Applications Journal**.
 * [2022] I started my role as a reviewer for the **American Journal of Artificial Intelligence (AJAI)**.
 
 
