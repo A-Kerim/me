@@ -29,7 +29,7 @@ In my research, I address the limitations of computer vision models under challe
  </div>
 
  <div>
- <img src= "images/logos/modlai.svg"  width="100" height="100" align="right">
+ <img src= "images/logos/modlai.jpg"  width="100" height="100" align="right">
 
  <img src= "https://www.lancaster.ac.uk/media/wdp/style-assets/images/logos/lu-logo.svg"  width="100" height="100" align="left" >
 
