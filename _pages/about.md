@@ -15,7 +15,7 @@ In my research, I address the limitations of computer vision models under challe
 
 ---
 <div>
- <img src= "https://github.com/A-Kerim/me/blob/a1ce91a999e759571f5be54625a4ff5be3942543/images/logos/UCA.jpg"  width="100" align="right">
+ <img src= "images/logos/UCA.jpg"  width="100" align="right">
 
  <img src= "https://www.lancaster.ac.uk/media/wdp/style-assets/images/logos/lu-logo.svg"   width="100" align="left" >
 
