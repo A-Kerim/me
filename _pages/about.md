@@ -34,7 +34,7 @@ In my research, I address the limitations of computer vision models under challe
  <img src= "images/logos/oxford.png"  width="150"  align="left">
 
   <div style="text-align: center">
-         <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Packt_Logo.png" width="150" >
+         <img width="400" src="images/logos/bmvc-2023.png" width="150" >
   </div>
 
 
