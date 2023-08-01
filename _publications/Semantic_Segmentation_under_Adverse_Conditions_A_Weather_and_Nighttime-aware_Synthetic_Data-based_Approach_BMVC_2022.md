@@ -22,6 +22,8 @@ Our code is available at
 <a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
 </p>
 
+<div>
+
 <div style="text-align: center">
          <img width="400" src="images/logos/bmvc-2023.png" width="150" >
 </div>
@@ -30,6 +32,7 @@ Our code is available at
          <img width="400" src="images/Qualitative_Results_BMVC2022.png" width="150" >
 </div>
 
+</div>
 
 paperurl: [https://bmvc2022.mpi-inf.mpg.de/0977.pdf](https://bmvc2022.mpi-inf.mpg.de/0977.pdf)
 
