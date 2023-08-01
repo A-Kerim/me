@@ -8,6 +8,19 @@ venue: 'The British Machine Vision Conference (BMVC)'
 ---
 **Abdulrahman Kerim**, Felipe Chamone, Washington Ramos, Leandro Soriano Marcolino, Erickson R Nascimento, Richard Jiang
 
+
+<div>
+
+<div style="text-align: center">
+         <img width="400" src="images/logos/bmvc-2023.png" width="150" >
+</div>
+
+<div style="text-align: center">
+         <img width="400" src="images/Qualitative_Results_BMVC2022.png" width="150" >
+</div>
+
+</div>
+
 <p align= "justify">
 
 Recent semantic segmentation models perform well under standard weather conditions and sufficient illumination but struggle
@@ -22,17 +35,6 @@ Our code is available at
 <a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
 </p>
 
-<div>
-
-<div style="text-align: center">
-         <img width="400" src="images/logos/bmvc-2023.png" width="150" >
-</div>
-
-<div style="text-align: center">
-         <img width="400" src="images/Qualitative_Results_BMVC2022.png" width="150" >
-</div>
-
-</div>
 
 paperurl: [https://bmvc2022.mpi-inf.mpg.de/0977.pdf](https://bmvc2022.mpi-inf.mpg.de/0977.pdf)
 
