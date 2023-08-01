@@ -21,4 +21,4 @@ Silver can be used to provide clean, unbiased, and large-scale training and test
 
 </p>
 
-paperurl: [http://data-readiness-kdd-2021.mybluemix.net/](http://data-readiness-kdd-2021.mybluemix.net/)
+paperurl: [paper](https://www.semanticscholar.org/paper/Silver%3A-Novel-Rendering-Engine-for-Data-Hungry-Kerim/c893b3709095326eea237608833fe87ec8e6d470)

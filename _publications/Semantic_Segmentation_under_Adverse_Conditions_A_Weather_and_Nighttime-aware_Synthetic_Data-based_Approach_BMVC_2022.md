@@ -19,7 +19,7 @@ weather conditions while getting only small gains in adverse situations. Therefo
 designed for using synthetic training data for domain adaptation. We propose a simple yet powerful addition to DeepLabV3+ by using
 weather and time-of-the-day supervisors trained with multi-task learning, making it both weather and nighttime aware, which improves
 its mIoU accuracy by 14 percentage points on the ACDC dataset while maintaining a score of 75% mIoU on the Cityscapes dataset.
-Our code is available at Xs
+Our code is available at 
 <a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
 </p>
 

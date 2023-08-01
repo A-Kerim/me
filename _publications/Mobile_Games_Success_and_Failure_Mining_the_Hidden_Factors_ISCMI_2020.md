@@ -24,5 +24,8 @@ of a mobile game with more than 70% accuracy. This prediction can help developer
 avoid any potential disappointments.
 </p>
 
+![work01](https://github.com/A-Kerim/me/blob/a5b1c694deb76eb7c1c765754d10e2f9eba3f1e8/images/Qualitative_Results_BMVC2022.png?raw=true)
+![work01](https://github.com/A-Kerim/me/blob/a5b1c694deb76eb7c1c765754d10e2f9eba3f1e8/images/Qualitative_Results_BMVC2022.png?raw=true)
+
 paperurl: [https://doi.org/10.1109/ISCMI51676.2020.9311587](https://doi.org/10.1109/ISCMI51676.2020.9311587)
 
