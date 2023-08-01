@@ -17,7 +17,7 @@ United Kingdom.
 
 <p align= "justify">
 
-I specialize in addressing computer vision model limitations in adverse conditions through game engine-generated synthetic datasets.
+I specialize in addressing computer vision models limitations in adverse conditions through game engine-generated synthetic datasets.
 My research focuses on developing novel synthetic-aware models for Visual Object Tracking, Semantic Segmentation, and
 Video Stabilization. I aim to revolutionize computer vision by bridging the gap between synthetic and real-world data, 
 driving advancements in autonomous systems, surveillance, and robotics. Seeking opportunities to contribute my expertise to 
