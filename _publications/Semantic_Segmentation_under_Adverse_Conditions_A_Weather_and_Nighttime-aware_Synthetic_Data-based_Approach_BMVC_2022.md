@@ -23,9 +23,6 @@ Our code is available at Xs
 <a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
 </p>
 
-
-![work01](https://github.com/A-Kerim/me/blob/6bc34f556dcde0bc071f48287fe497284a148ec6/images/work01.png?raw=true)
-
 ![work01](https://github.com/A-Kerim/me/blob/a5b1c694deb76eb7c1c765754d10e2f9eba3f1e8/images/Qualitative_Results_BMVC2022.png?raw=true)
 
 paperurl: [https://bmvc2022.mpi-inf.mpg.de/0977.pdf](https://bmvc2022.mpi-inf.mpg.de/0977.pdf)
