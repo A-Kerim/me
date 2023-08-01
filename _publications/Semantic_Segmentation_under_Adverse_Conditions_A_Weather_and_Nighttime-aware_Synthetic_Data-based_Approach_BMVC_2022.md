@@ -19,8 +19,10 @@ designed for using synthetic training data for domain adaptation. We propose a s
 weather and time-of-the-day supervisors trained with multi-task learning, making it both weather and nighttime aware, which improves
 its mIoU accuracy by 14 percentage points on the ACDC dataset while maintaining a score of 75% mIoU on the Cityscapes dataset.
 Our code is available at
-<a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> [https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
+<a href="https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions"> https://github.com/lsmcolab/Semantic-Segmentation-under-Adverse-Conditions</a>.
 </p>
+
+<img src="images/bmvc-2022.png" alt="BMVC-2022" />
 
 paperurl: [https://bmvc2022.mpi-inf.mpg.de/0977.pdf](https://bmvc2022.mpi-inf.mpg.de/0977.pdf)
 
