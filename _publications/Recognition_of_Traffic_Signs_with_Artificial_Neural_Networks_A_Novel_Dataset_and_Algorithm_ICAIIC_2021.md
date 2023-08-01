@@ -19,4 +19,7 @@ reached on our novel dataset for 10 classes. This accomplishment can be linked t
 different models trained on color intensity, HOG (Histograms of Oriented Gradients) and LBP (Local Binary Pattern) features.
 </p>
 
+
+![work01](https://github.com/A-Kerim/me/blob/e1ccc692d8b18bd81d88e0955f48f2245f5dde75/images/papers/TrafficSign.png?raw=true)
+
 paperurl: [https://doi.org/10.1109/ICAIIC51459.2021.9415238](https://doi.org/10.1109/ICAIIC51459.2021.9415238)
