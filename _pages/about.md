@@ -45,7 +45,7 @@ cutting-edge organizations passionate about innovative research in computer visi
  <img src= "images/logos/oxford.png"  width="150"  align="left">
 
   <div style="text-align: center">
-         <img width="400" src="images/logos/bmvc-2023.png" width="150" >
+         <img width="400" src="https://github.com/A-Kerim/me/blob/d915be04400d2fc93678dfd9954a1fcb231a32bd/images/logos/bmvc-2022.png" width="150" >
   </div>
 
 
