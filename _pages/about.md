@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<p align= "justify">
 I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University, United Kingdom.
 
 I specialize in addressing computer vision model limitations in adverse conditions through game engine-generated synthetic datasets.
@@ -16,6 +16,7 @@ My research focuses on developing novel synthetic-aware models for Visual Object
 Video Stabilization. I aim to revolutionize computer vision by bridging the gap between synthetic and real-world data, 
 driving advancements in autonomous systems, surveillance, and robotics. Seeking opportunities to contribute my expertise to 
 cutting-edge organizations passionate about innovative research in computer vision.
+</p>
 
 ---
 <div>
