@@ -12,11 +12,11 @@ venue: 'The British Machine Vision Conference (BMVC)'
 <div>
 
 <div style="text-align: center">
-         <img width="400" src="images/logos/bmvc-2023.png" width="150" >
+         <img width="400" src="https://github.com/A-Kerim/me/blob/a5b1c694deb76eb7c1c765754d10e2f9eba3f1e8/images/Qualitative_Results_BMVC2022.png" width="150" >
 </div>
 
 <div style="text-align: center">
-         <img width="400" src="images/Qualitative_Results_BMVC2022.png" width="150" >
+         <img width="400" src="https://github.com/A-Kerim/me/blob/a5b1c694deb76eb7c1c765754d10e2f9eba3f1e8/images/Qualitative_Results_BMVC2022.png" width="150" >
 </div>
 
 </div>
