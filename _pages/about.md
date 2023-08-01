@@ -44,6 +44,9 @@ cutting-edge organizations passionate about innovative research in computer visi
 
  <img src= "images/logos/oxford.png"  width="150"  align="left">
 
+   <div style="text-align: center">
+         <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Packt_Logo.png" width="150" >
+  </div>
 
 
  <p></p>
