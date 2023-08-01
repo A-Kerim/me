@@ -7,6 +7,7 @@ date: 2022-10-01
 venue: 'Neural Computing and Applications Journal'
 ---
 **Abdulrahman Kerim**, Burkay Genç
+<p align= "justify">
 
 Predicting the success of a mobile game is a prime issue in game industry. Thousands
 of games are being released each day. However, a few of them succeed while the
@@ -21,6 +22,7 @@ employ different machine learning models to predict a novel success score metric
 mobile game given its attributes. The trained models were able to predict this score, as
 well as the expected rating average and rating count for a mobile game with 70%
 accuracy.
+</p>
 
 paperurl: [paper](https://link.springer.com/article/10.1007/s00521-022-07154-z)
 
