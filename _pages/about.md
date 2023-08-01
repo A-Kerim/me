@@ -11,8 +11,11 @@ redirect_from:
 
 I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University, United Kingdom.
 
-In my research, I address the limitations of computer vision models under challenging scenarios, such as adverse weather conditions and low illumination. I propose using game engines to generate rich and diverse synthetic datasets as a solution. At the same time, I develop novel synthetic-aware computer vision models. I focus specifically on Visual Object Tracking, Semantic Segmentation, and Video Stabilization.
-
+I specialize in addressing computer vision model limitations in adverse conditions through game engine-generated synthetic datasets.
+My research focuses on developing novel synthetic-aware models for Visual Object Tracking, Semantic Segmentation, and
+Video Stabilization. I aim to revolutionize computer vision by bridging the gap between synthetic and real-world data, 
+driving advancements in autonomous systems, surveillance, and robotics. Seeking opportunities to contribute my expertise to 
+cutting-edge organizations passionate about innovative research in computer vision.
 ---
 <div>
  <img src= "images/logos/Microsoft.svg"  width="150"  align="right">
