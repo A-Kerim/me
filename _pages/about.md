@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <p align= "justify">
-I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University, United Kingdom.
+
+I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University,
+United Kingdom.
 
 I specialize in addressing computer vision model limitations in adverse conditions through game engine-generated synthetic datasets.
 My research focuses on developing novel synthetic-aware models for Visual Object Tracking, Semantic Segmentation, and
