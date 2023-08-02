@@ -12,5 +12,5 @@ that we introduce in this work.
 
 ![award01_1](https://github.com/A-Kerim/me/blob/f2c6f3b89124b47828c6a85488e0debf06938b03/images/portfolio02.png?raw=true)
 
-Please check project webpage: [https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/](https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/)
+Please check the project webpage: [https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/](https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/)
 
