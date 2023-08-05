@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_pages"
+    "\\assets",
+    "\\assets\\js",
+    "\\assets\\js\\plugins",
+    "\\assets\\js\\vendor",
+    "\\markdown_generator",
+    "\\_awards",
+    "\\_data",
+    "\\_drafts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\Gemfile",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
