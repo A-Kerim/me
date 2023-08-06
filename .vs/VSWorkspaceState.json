@@ -3,14 +3,14 @@
     "",
     "\\assets",
     "\\assets\\js",
-    "\\assets\\js\\plugins",
     "\\assets\\js\\vendor",
     "\\markdown_generator",
     "\\_awards",
-    "\\_data",
+    "\\_data\\comments",
     "\\_drafts",
-    "\\_posts"
+    "\\_pages",
+    "\\_portfolio"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_pages\\portfolio.html",
   "PreviewInSolutionExplorer": false
 }
