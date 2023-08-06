@@ -1,32 +1,89 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-<h1>NOVA Rendering Engine</h1>
-<br>
-        A sample panorama displaying procedurally generated humans by the NOVA framework in a controllable, configurable
-        environment along with their annotations. The first half is photorealistic renderings transitioning between different
-        times of day and the latter half is demonstrating some of the pixel-level annotations NOVA generates for use in various
-        computer vision tasks: (from left to right) instance segmentation, semantic segmentation, optical flow, surface normals and
-        the depth data.
-        </br>
+<head>
+    <title>Creative Image Display</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-        ![award01_1](https://github.com/A-Kerim/me/blob/b3b11c22dc2bed459bc5ccdc360b5d56ce80eb63/images/portfolio01.jpg?raw=true)
+        .image-container {
+            position: relative;
+            overflow: hidden;
+            width: 300px;
+            height: 300px;
+        }
 
-        Please check project webpage: [https://graphics.cs.hacettepe.edu.tr/NOVA/](https://graphics.cs.hacettepe.edu.tr/NOVA/)
+            .image-container img {
+                width: 100%;
+                height: 100%;
+            }
 
-<hr>
+        .image-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
 
-<h1>Using Synthetic Data for Person Tracking Under Adverse Weather Conditions</h1>
-<br>
+        .image-container:hover .image-overlay {
+            opacity: 1;
+        }
+
+        .image-caption {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            color: #fff;
+            font-size: 18px;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+
+        .image-container:hover .image-caption {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>NOVA Rendering Engine</h1>
+    <br>
+    A sample panorama displaying procedurally generated humans by the NOVA framework in a controllable, configurable
+    environment along with their annotations. The first half is photorealistic renderings transitioning between different
+    times of day and the latter half is demonstrating some of the pixel-level annotations NOVA generates for use in various
+    computer vision tasks: (from left to right) instance segmentation, semantic segmentation, optical flow, surface normals and
+    the depth data.
+    </br>
+
+    ![award01_1](https://github.com/A-Kerim/me/blob/b3b11c22dc2bed459bc5ccdc360b5d56ce80eb63/images/portfolio01.jpg?raw=true)
+
+    Please check project webpage: [https://graphics.cs.hacettepe.edu.tr/NOVA/](https://graphics.cs.hacettepe.edu.tr/NOVA/)
+
+    <hr>
+
+    <h1>Using Synthetic Data for Person Tracking Under Adverse Weather Conditions</h1>
+    <br>
     We introduce a novel person tracking dataset of synthetic sequences (PTAW217Synth) procedurally generated
     by our NOVA-Extended framework spanning the same weather conditions in varying severity to mitigate the problem of
     data scarcity. Our experimental results demonstrate that the performances of the state-of-the-art deep trackers under
     adverse weather conditions can be boosted when the available real training sequences are complemented with our
     synthetically generated dataset during training.
-<br />
+    <br />
 
 
     On the first half, sample frames from the currently-available real (top-left quarter) (MOT, NUS-PRO, OTB-100, and TC128) and synthetic (bottom-left quarter)
@@ -38,4 +95,11 @@ author_profile: true
 
     Please check the project webpage: [https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/](https://graphics.cs.hacettepe.edu.tr/NOVA-Adverse/)
 
-<hr>
+    <hr>
+
+    <div class="image-container">
+        <img src="https://github.com/A-Kerim/me/blob/f2c6f3b89124b47828c6a85488e0debf06938b03/images/portfolio02.png?raw=true" alt="Creative Image">
+        <div class="image-overlay"></div>
+        <div class="image-caption">Creative Image Display</div>
+    </div>
+</body>
