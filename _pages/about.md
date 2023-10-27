@@ -58,7 +58,7 @@ cutting-edge organizations passionate about innovative research in computer visi
 
 News!
 ======
-* [2023] My paper titled "Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions" was accepted to **WACV**!
+* [2023] My paper titled "Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions" was accepted to [**WACV**](https://wacv2024.thecvf.com/)!
 * [2023] My book was published [**Synthetic Data for Machine Learning**](https://www.amazon.co.uk/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)! 
 * [2023] My research funding application for **Developing Synthetic Data Simulator for Computer Vision** was successful (UCA)!
 * [2023] Conference co-chair of [**Creative AI Research Conference 2023**](https://www.uca.ac.uk/events/research/creative-ai/).
