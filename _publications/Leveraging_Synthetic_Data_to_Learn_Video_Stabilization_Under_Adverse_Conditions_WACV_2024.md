@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions"
 collection: publications
-permalink: /publication/Semantic_Segmentation_under_Adverse_Conditions_A_Weather_and_Nighttime-aware_Synthetic_Data-based_Approach_BMVC_2022
+permalink: /publication/Leveraging_Synthetic_Data_to_Learn_Video_Stabilization_Under_Adverse_Conditions_WACV_2024
 excerpt: ''
 date: 2024-01-02
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
@@ -20,4 +20,4 @@ Our code is available at
 ![work01](https://github.com/A-Kerim/SyntheticData4VideoStabilization_WACV_2024/blob/3b137bb787e74e5a81e377918b96559e4a3c1130/imgs/introduction.png?raw=true)
 
 
-paperurl: [https://openaccess.thecvf.com/content/WACV2024/html/Kerim_Leveraging_Synthetic_Data_To_Learn_Video_Stabilization_Under_Adverse_Conditions_WACV_2024_paper.html](https://openaccess.thecvf.com/content/WACV2024/html/Kerim_Leveraging_Synthetic_Data_To_Learn_Video_Stabilization_Under_Adverse_Conditions_WACV_2024_paper.html)
+paperurl: [Leveraging_Synthetic_Data_To_Learn_Video_Stabilization_Under_Adverse_Conditions_WACV_2024_paper](https://openaccess.thecvf.com/content/WACV2024/html/Kerim_Leveraging_Synthetic_Data_To_Learn_Video_Stabilization_Under_Adverse_Conditions_WACV_2024_paper.html)
