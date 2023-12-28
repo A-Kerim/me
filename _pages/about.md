@@ -10,18 +10,17 @@ redirect_from:
 
 <p align= "justify">
 
-I am currently a full-time lecturer at UCA and a researcher at the School of Computing and Communications at Lancaster University,
-United Kingdom.
+Lecturer in Games Programming and Data Science
 
 </p>
 
 <p align= "justify">
 
-I specialize in addressing computer vision models limitations in adverse conditions through game engine-generated synthetic datasets.
-My research focuses on developing novel synthetic-aware models for Visual Object Tracking, Semantic Segmentation, and
-Video Stabilization. I aim to revolutionize computer vision by bridging the gap between synthetic and real-world data, 
-driving advancements in autonomous systems, surveillance, and robotics. Seeking opportunities to contribute my expertise to 
-cutting-edge organizations passionate about innovative research in computer vision.
+Welcome to my profile!🚀 With a robust five-year teaching history specializing in Games Programming and Data Science, I am passionate about cultivating a dynamic and immersive learning environment. My pedagogical approach is deeply rooted in cutting-edge learning and teaching theories, supported by extensive research, and tailored to meet the specific needs of my students.
+
+Throughout my academic journey, I have proudly published nine research outputs📚, contributing to the advancement of knowledge in our field. My commitment to educational excellence extends beyond the classroom; I have actively contributed to curriculum design for three distinct courses🎓. In my role as an educator, I have successfully taught over 10 modules across four universities, showcasing adaptability, and a steadfast dedication to fostering a meaningful and impactful learning experience.
+
+Whether you are a student aspiring to delve into the world of Games Programming and Data Science or a professional seeking mentorship, I am here to guide you. Let's explore the realms of academia and industry together, tailoring our journey to your unique goals and aspirations. I invite you to connect with me for mentorship, discussions, or collaborative endeavors. Looking forward to embarking on this educational journey with you!🌟
 </p>
 
 ---
