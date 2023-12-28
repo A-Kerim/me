@@ -12,6 +12,7 @@ venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 <p align= "justify">
 
 Stabilization plays a central role in improving the quality of videos. However, current methods perform poorly under adverse conditions. In this paper, we propose a synthetic-aware adverse weather video stabilization algorithm that dispenses real data for training, relying solely on synthetic data. Our approach leverages specially generated synthetic data to avoid the feature extraction issues faced by current methods. To achieve this, we present a novel data generator to produce the required training data with an automatic ground-truth extraction procedure. We also propose a new dataset, VSAC105Real, and compare our method to five recent video stabilization algorithms using two benchmarks. Our method generalizes well on real-world videos across all weather conditions and does not require large-scale synthetic training data.
+
 Our code is available at 
 <a href="https://github.com/A-Kerim/SyntheticData4VideoStabilization_WACV_2024"> https://github.com/A-Kerim/SyntheticData4VideoStabilization_WACV_2024</a>.
 </p>
