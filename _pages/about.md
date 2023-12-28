@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p align= "justify">
-
-Lecturer in Games Programming and Data Science
-
-</p>
 
 <p align= "justify">
-
 Welcome to my profile!🚀 With a robust five-year teaching history specializing in Games Programming and Data Science, I am passionate about cultivating a dynamic and immersive learning environment. My pedagogical approach is deeply rooted in cutting-edge learning and teaching theories, supported by extensive research, and tailored to meet the specific needs of my students.
-
+</p>
+<p align= "justify">
 Throughout my academic journey, I have proudly published nine research outputs📚, contributing to the advancement of knowledge in our field. My commitment to educational excellence extends beyond the classroom; I have actively contributed to curriculum design for three distinct courses🎓. In my role as an educator, I have successfully taught over 10 modules across four universities, showcasing adaptability, and a steadfast dedication to fostering a meaningful and impactful learning experience.
-
+</p>
+<p align= "justify">
 Whether you are a student aspiring to delve into the world of Games Programming and Data Science or a professional seeking mentorship, I am here to guide you. Let's explore the realms of academia and industry together, tailoring our journey to your unique goals and aspirations. I invite you to connect with me for mentorship, discussions, or collaborative endeavors. Looking forward to embarking on this educational journey with you!🌟
 </p>
 
