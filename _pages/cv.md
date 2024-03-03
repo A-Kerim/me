@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, Lancaster University, 2023 (expected)
+* PhD in Computer Science, Lancaster University, 2024
 * MSc in Computer Engineering, Hacettepe University, 2021
 * BSc in Computer Engineering, Ankara Yildirim Beyazit University, 2018
 * BSc in Electronics and Communication Engineering, Ankara Yildirim Beyazit University, 2017
