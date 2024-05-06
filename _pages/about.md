@@ -10,13 +10,11 @@ redirect_from:
 
 
 <p align= "justify">
-Welcome to my profile!🚀 With a robust five-year teaching history specializing in Games Programming and Data Science, I am passionate about cultivating a dynamic and immersive learning environment. My pedagogical approach is deeply rooted in cutting-edge learning and teaching theories, supported by extensive research, and tailored to meet the specific needs of my students.
+Dr Kerim is a researcher, book author, and lecturer in Computer Vision and machine learning. He worked on visual object tracking, semantic segmentation, and video stabilization problems. He is a fellow of the British Machine Vision Association (BMVA). He is currently interested in explainable machine learning (XML).
 </p>
+
 <p align= "justify">
-Throughout my academic journey, I have proudly published nine research outputs📚, contributing to the advancement of knowledge in our field. My commitment to educational excellence extends beyond the classroom; I have actively contributed to curriculum design for three distinct courses🎓. In my role as an educator, I have successfully taught over 10 modules across four universities, showcasing adaptability, and a steadfast dedication to fostering a meaningful and impactful learning experience.
-</p>
-<p align= "justify">
-Whether you are a student aspiring to delve into the world of Games Programming and Data Science or a professional seeking mentorship, I am here to guide you. Let's explore the realms of academia and industry together, tailoring our journey to your unique goals and aspirations. I invite you to connect with me for mentorship, discussions, or collaborative endeavors. Looking forward to embarking on this educational journey with you!🌟
+Throughout his academic journey, he published nine research outputs📚, contributing to the advancement of the machine learning field. His commitment to educational excellence extends beyond the lecture theater; he contributed to the curriculum design of three distinct courses🎓. He taught over 10 modules across four universities, showcasing adaptability, and a steadfast dedication to fostering a meaningful and impactful learning experience.
 </p>
 
 ---
