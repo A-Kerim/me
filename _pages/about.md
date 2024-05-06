@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align= "justify">
-Dr Kerim is a researcher, book author, and lecturer in Computer Vision and machine learning. He worked on visual object tracking, semantic segmentation, and video stabilization problems. He is a fellow of the British Machine Vision Association (BMVA). He is currently interested in explainable machine learning (XML).
+Dr Kerim is a researcher, book author, and lecturer in computer vision and machine learning. He worked on visual object tracking, semantic segmentation, and video stabilization problems. He is a fellow of the British Machine Vision Association (BMVA). He is currently interested in explainable machine learning (XML).
 </p>
 
 <p align= "justify">
