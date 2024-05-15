@@ -69,4 +69,6 @@ News!
 * [2022] Our work [**Mobile Games Success and Failure: Mining the Hidden Factors**](https://link.springer.com/article/10.1007/s00521-022-07154-z) was accepted by **Neural Computing and Applications Journal**.
 * [2022] I started my role as a reviewer for the **American Journal of Artificial Intelligence (AJAI)**.
 
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=a3kerim
+
 
