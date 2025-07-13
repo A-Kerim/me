@@ -55,7 +55,12 @@ Throughout his academic journey, he published nine research outputs📚, contrib
 
 News!
 ======
-* [2024] I am starting my new role as Research Fellow in XML at University of Surrey!
+
+* [2025] I am now a Technical Editor for a new book with Manning Publications titled "Practical Synthetic Data: Foundations, Techniques, and Applications"
+* [2025] I’ve joined the Program Committee for [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/)!
+ --- 
+ 
+* [2024] I am starting my new role as Research Fellow in XML at the University of Surrey!
 * [2024] My paper titled "Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions" was accepted to [**WACV**](https://wacv2024.thecvf.com/)!
 
   --- 
