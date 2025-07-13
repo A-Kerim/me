@@ -57,7 +57,7 @@ News!
 ======
 
 * [2025] I am now a Technical Editor for a new book with Manning Publications titled "Practical Synthetic Data: Foundations, Techniques, and Applications"
-* [2025] I’ve joined the Program Committee for [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/)!
+* [2025] I have joined the Program Committee for [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/)!
  --- 
 * [2024] I have joined the Program Committee for [**ICMLA 2024**](https://www.icmla-conference.org/icmla24/pcm.html)!
 * [2024] I am starting my new role as Research Fellow in XML at the University of Surrey!
